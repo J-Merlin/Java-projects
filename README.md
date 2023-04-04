@@ -1,5 +1,5 @@
-# Course-1321-
-This is a repository for my Java Programs from my intro-to-programming class @ KSU
+# Java Projects from college course-
+This is a repository for my Java Programs from my programming course @ KSU
 
 
 =====THIS REPOSITORY IS A LEARNING EXPERIENCE.=====
